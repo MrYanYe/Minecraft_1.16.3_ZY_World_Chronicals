@@ -1,5 +1,9 @@
 
-/.minecraft/
+/.minecraft/assets/
+/.minecraft/backups/
+/.minecraft/saves/
+/.minecraft/voxelmap/
+
 
 /.minecraft/backups/2022-02-18_10-07-04_傻子村民3.zip
 /.minecraft/backups/2024-02-08_23-49-36_生存.zip
